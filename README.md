@@ -8,7 +8,7 @@ Technologies Used
 
 - JavaScript Fetch API – For making API requests and handling responses.
 - VS Code – As the development environment.
-- Chrome Browser – For testing and debugging.
+- Live server – For testing and debugging.
 
 Features
 
